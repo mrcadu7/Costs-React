@@ -1,0 +1,66 @@
+{
+  "projects": [
+    {
+      "id": "897a",
+      "name": "duplicated",
+      "budget": "7654",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "costs": 0,
+      "services": []
+    },
+    {
+      "id": "71f4",
+      "name": "tava nao kkkkk",
+      "budget": "878787",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "costs": 0,
+      "services": []
+    },
+    {
+      "id": "e2b2",
+      "name": "adonis foguetones",
+      "budget": "666655",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "costs": 0,
+      "services": []
+    },
+    {
+      "id": "9b34",
+      "name": "Ihuuul",
+      "budget": "24",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "costs": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
