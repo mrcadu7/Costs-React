@@ -24,6 +24,10 @@
     cursor: pointer;
   }
   
+  .social_list a:visited {
+    color: #ffbb33; /* Cor desejada para links visitados */
+  }
+  
   .copy_right {
     margin-top: 2em;
   }
